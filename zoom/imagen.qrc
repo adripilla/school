@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/.">
+        <file>kisspng-car-black-and-white-clip-art-auto-rickshaw-5abb0d76a1ddc1.683329191522208118663.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>kisspng-car-black-and-white-clip-art-auto-rickshaw-5abb0d76a1ddc1.683329191522208118663.png</file>
+    </qresource>
+</RCC>
